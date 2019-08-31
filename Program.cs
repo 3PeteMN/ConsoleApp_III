@@ -10,7 +10,7 @@ namespace ConsoleApp_III
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("ConsoleApp_III");
+            Console.WriteLine("ConsoleApp_III push it!");
         }
     }
 }
